@@ -15,7 +15,7 @@
     "number": 1,
     "route": "37",
     "destZ": "大園 欣園邨",
-    "destY": "背沙邨",
+    "destY": "背沙 安頌苑",
     "maxPZ": "2",
     "priceZ1": "8.0",
     "halfpriceZ1": "4.0",
@@ -45,7 +45,7 @@
     "number": 3,
     "route": "37X",
     "destZ": "大園市中心",
-    "destY": "大園市中心",
+    "destY": "背沙 安頌苑",
     "maxPZ": "2",
     "priceZ1": "8.0",
     "halfpriceZ1": "4.0",
@@ -54,8 +54,8 @@
     "maxPY": "2",
     "priceY1": "8.0",
     "halfpriceY1": "4.0",
-    "priceY2": "3.8",
-    "halfpriceY2": "1.9"
+    "priceY2": "4.6",
+    "halfpriceY2": "2.3"
   },
   {
     "number": 4,
